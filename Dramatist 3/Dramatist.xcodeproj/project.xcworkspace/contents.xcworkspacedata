@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../Downloads/ProximaNova (1)/ProximaNova-Black.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/ProximaNova (1)/ProximaNova-Bold.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/ProximaNova (1)/ProximaNova-Extrabld.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/ProximaNova (1)/ProximaNova-Light.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/ProximaNova (1)/ProximaNova-Regular.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/ProximaNova (1)/ProximaNova-Semibold.ttf">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
